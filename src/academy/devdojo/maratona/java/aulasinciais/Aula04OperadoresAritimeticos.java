@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.AulasInciais;
+package academy.devdojo.maratona.java.aulasinciais;
 
 public class Aula04OperadoresAritimeticos {
     public static void main(String[] args) {

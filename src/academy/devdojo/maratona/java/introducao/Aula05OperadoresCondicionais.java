@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.AulasInciais;
+package academy.devdojo.maratona.java.introducao;
 
 public class Aula05OperadoresCondicionais {
     public static void main(String[] args) {
