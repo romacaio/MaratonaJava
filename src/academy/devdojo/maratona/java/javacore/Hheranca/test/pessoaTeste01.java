@@ -13,13 +13,13 @@ public class pessoaTeste01 {
         pessoa.setNome("Toyohisa Shimazu");
         pessoa.setCpf("111111");
         pessoa.setEndereco(endereco);
-        pessoa.iprimir();
+        pessoa.imprimir();
 
         Funcionario funcionario = new Funcionario();
         funcionario.setNome("Oda Nobunaga");
         funcionario.setCpf("22222");
         funcionario.setEndereco(endereco);
         funcionario.setSalario(20000);
-        funcionario.iprimir();
+        funcionario.imprimir();
     }
 }

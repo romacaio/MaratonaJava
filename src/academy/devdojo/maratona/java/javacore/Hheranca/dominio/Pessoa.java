@@ -5,7 +5,7 @@ public class Pessoa {
     private String cpf;
     private Endereco endereco;
 
-    public void iprimir(){
+    public void imprimir(){
         System.out.println("----------------");
         System.out.println(this.nome);
         System.out.println(this.cpf);
