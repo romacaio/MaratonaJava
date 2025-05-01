@@ -1,9 +1,11 @@
 package academy.devdojo.maratona.java.javacore.Hheranca.dominio;
 
 public class Pessoa {
-    private String nome;
-    private String cpf;
-    private Endereco endereco;
+
+    // Protected: público para subclasses e para classes do mesmo pacote
+    protected String nome;
+    protected String cpf;
+    protected Endereco endereco;
 
     public void imprimir(){
         System.out.println("----------------");
