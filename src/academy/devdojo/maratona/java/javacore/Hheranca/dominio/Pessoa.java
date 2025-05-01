@@ -1,5 +1,7 @@
 package academy.devdojo.maratona.java.javacore.Hheranca.dominio;
 
+import javax.sound.midi.Soundbank;
+
 public class Pessoa {
 
     // Protected: público para subclasses e para classes do mesmo pacote
@@ -7,16 +9,29 @@ public class Pessoa {
     protected String cpf;
     protected Endereco endereco;
 
-    public Pessoa(String nome){
+    static {
+        System.out.println("Dentro do bloco de inicialização estático de pessoa");
+    }
+
+    {
+        System.out.println("Dentro do bloco de inicilalização não estático de pessoa 1");
+    }
+
+    {
+        System.out.println("Dentro do bloco de inicilalização não estático de pessoa 2");
+    }
+
+    public Pessoa(String nome) {
+        System.out.println("Dentro do contrutor de pessoa");
         this.nome = nome;
     }
 
-    public Pessoa(String nome, String cpf){
+    public Pessoa(String nome, String cpf) {
         this(nome);
         this.cpf = cpf;
     }
 
-    public void imprimir(){
+    public void imprimir() {
         System.out.println("----------------");
         System.out.println(this.nome);
         System.out.println(this.cpf);

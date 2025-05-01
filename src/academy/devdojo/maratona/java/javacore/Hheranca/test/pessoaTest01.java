@@ -4,7 +4,7 @@ import academy.devdojo.maratona.java.javacore.Hheranca.dominio.Endereco;
 import academy.devdojo.maratona.java.javacore.Hheranca.dominio.Funcionario;
 import academy.devdojo.maratona.java.javacore.Hheranca.dominio.Pessoa;
 
-public class pessoaTeste01 {
+public class pessoaTest01 {
     public static void main(String[] args) {
         Endereco endereco = new Endereco();
         endereco.setRua("Rua 3");
