@@ -9,6 +9,10 @@ public class Funcionario extends Pessoa {
 
     }
 
+    public Funcionario(String nome){
+        super(nome);
+    }
+
     public void geraRelatorio(){
         System.out.println("Eu " + this.nome+ " Recebi o salário de " + this.salario);
     }
