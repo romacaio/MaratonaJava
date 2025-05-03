@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.javacore.kenum.teste;
+package academy.devdojo.maratona.java.javacore.kenum.test;
 
 import academy.devdojo.maratona.java.javacore.kenum.dominio.Cliente;
 import academy.devdojo.maratona.java.javacore.kenum.dominio.TipoCliente;
