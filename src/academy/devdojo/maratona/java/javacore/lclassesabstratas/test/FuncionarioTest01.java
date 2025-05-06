@@ -13,5 +13,6 @@ public class FuncionarioTest01 {
 
         desenvolvedor.imprime();
         gerente.imprime();
+
     }
 }
