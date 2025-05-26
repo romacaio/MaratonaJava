@@ -36,5 +36,9 @@ public class LocalDateTest01 {
 
         System.out.println(date); // Padrão ISO
         System.out.println(agora);
+
+        System.out.println();
+        System.out.println(LocalDate.MIN);
+        System.out.println(LocalDate.MAX);
     }
 }
