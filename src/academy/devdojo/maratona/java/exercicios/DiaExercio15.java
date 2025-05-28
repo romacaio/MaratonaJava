@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.Exercicios;
+package academy.devdojo.maratona.java.exercicios;
 
 public class DiaExercio15 {
     public int ano;

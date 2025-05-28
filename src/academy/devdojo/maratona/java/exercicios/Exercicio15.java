@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.Exercicios;
+package academy.devdojo.maratona.java.exercicios;
 
 /*
     15 - Faça um algoritmo que leia o ano em que uma pessoa nasceu, imprima na tela quantos anos, meses e

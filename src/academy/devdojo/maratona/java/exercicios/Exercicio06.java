@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.Exercicios;
+package academy.devdojo.maratona.java.exercicios;
 
 // 6 - Faça um algoritmo que leia um valor qualquer e imprima na tela com um reajuste de 5%.
 

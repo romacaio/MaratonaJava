@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.Exercicios;
+package academy.devdojo.maratona.java.exercicios;
 
 /*
     22 - Faça um algoritmo que calcule a quantidade de litros de combustível gastos em uma viagem, sabendo que

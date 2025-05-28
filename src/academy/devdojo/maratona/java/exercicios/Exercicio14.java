@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.Exercicios;
+package academy.devdojo.maratona.java.exercicios;
 
 /*
     4 - Faça um algoritmo que receba um valor A e B, e troque o valor de A

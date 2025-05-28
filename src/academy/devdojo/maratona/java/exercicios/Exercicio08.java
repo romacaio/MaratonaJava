@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.Exercicios;
+package academy.devdojo.maratona.java.exercicios;
 
 /*
     8 - Faça um algoritmo que leia três valores inteiros diferentes e imprima

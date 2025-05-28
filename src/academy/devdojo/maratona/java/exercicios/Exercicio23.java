@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.Exercicios;
+package academy.devdojo.maratona.java.exercicios;
 
 /*
     21 - Faça um algoritmo que efetue o cálculo do salário líquido de um professor.
