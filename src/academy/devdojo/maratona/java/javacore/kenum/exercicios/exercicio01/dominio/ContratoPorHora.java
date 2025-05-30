@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.javacore.kenum.exercicio.dominio;
+package academy.devdojo.maratona.java.javacore.kenum.exercicios.exercicio01.dominio;
 
 import java.time.LocalDate;
 

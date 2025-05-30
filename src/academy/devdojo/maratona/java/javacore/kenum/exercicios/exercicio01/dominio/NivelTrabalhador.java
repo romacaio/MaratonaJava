@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.javacore.kenum.exercicio.dominio;
+package academy.devdojo.maratona.java.javacore.kenum.exercicios.exercicio01.dominio;
 
 public enum NivelTrabalhador {
     JUNIOR("Junior"),

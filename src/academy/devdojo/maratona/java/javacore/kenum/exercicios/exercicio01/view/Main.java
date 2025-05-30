@@ -1,9 +1,9 @@
-package academy.devdojo.maratona.java.javacore.kenum.exercicio.view;
+package academy.devdojo.maratona.java.javacore.kenum.exercicios.exercicio01.view;
 
-import academy.devdojo.maratona.java.javacore.kenum.exercicio.dominio.ContratoPorHora;
-import academy.devdojo.maratona.java.javacore.kenum.exercicio.dominio.Departamento;
-import academy.devdojo.maratona.java.javacore.kenum.exercicio.dominio.NivelTrabalhador;
-import academy.devdojo.maratona.java.javacore.kenum.exercicio.dominio.Trabalhador;
+import academy.devdojo.maratona.java.javacore.kenum.exercicios.exercicio01.dominio.ContratoPorHora;
+import academy.devdojo.maratona.java.javacore.kenum.exercicios.exercicio01.dominio.Departamento;
+import academy.devdojo.maratona.java.javacore.kenum.exercicios.exercicio01.dominio.NivelTrabalhador;
+import academy.devdojo.maratona.java.javacore.kenum.exercicios.exercicio01.dominio.Trabalhador;
 
 import java.time.LocalDate;
 import java.time.Month;
