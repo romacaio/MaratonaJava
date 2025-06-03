@@ -26,12 +26,14 @@ public class ResourceBundleTest01 {
         System.out.println(bundle.getString("bom.dia"));
         System.out.println(bundle.getString("hi"));
 
-        // Locale("fr",CA")
-        // mensagens_fr_CA.properties
-        // mensagens_fr.properties
-        // mensagens_pt_BR.properties
-        // mensagens_pt.properties
-        // mensagens.properties
+        /* Se o locale do usuário Locale("fr", "CA") e o locale padrão
+        do sistema for pt-BR, o Java buscará.
 
+        mensagens_fr_CA.properties
+        mensagens_fr.properties
+        mensagens_pt_BR.properties
+        mensagens_pt.properties
+        mensagens.properties
+         */
     }
 }
