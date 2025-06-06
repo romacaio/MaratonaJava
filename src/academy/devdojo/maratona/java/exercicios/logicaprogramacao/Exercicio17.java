@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.exercicios;
+package academy.devdojo.maratona.java.exercicios.logicaprogramacao;
 
 /*
     17 - Faça um algoritmo que leia uma temperatura em Fahrenheit e calcule a temperatura correspondente em grau

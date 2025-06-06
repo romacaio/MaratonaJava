@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.exercicios;
+package academy.devdojo.maratona.java.exercicios.logicaprogramacao;
 
 /*
     13 - Faça algoritmo que leia o nome e a idade de uma pessoa e imprima na tela o nome da

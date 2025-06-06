@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.exercicios;
+package academy.devdojo.maratona.java.exercicios.logicaprogramacao;
 
 /*
     19 - Faça um algoritmo que imprima na tela a tabuada de 1 até 10.

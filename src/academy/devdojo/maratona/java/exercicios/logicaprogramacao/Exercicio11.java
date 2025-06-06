@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.exercicios;
+package academy.devdojo.maratona.java.exercicios.logicaprogramacao;
 
 /*
     11 - Faça um algoritmo que leia quatro notas obtidas por um aluno, calcule a média das notas

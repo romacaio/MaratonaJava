@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.exercicios;
+package academy.devdojo.maratona.java.exercicios.logicaprogramacao;
 
 /*
     16 - Faça um algoritmo que leia três valores que representam os três lados de um triângulo e

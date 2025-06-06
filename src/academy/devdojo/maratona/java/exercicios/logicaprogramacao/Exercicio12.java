@@ -1,4 +1,4 @@
-package academy.devdojo.maratona.java.exercicios;
+package academy.devdojo.maratona.java.exercicios.logicaprogramacao;
 
 /*
     12 - Faça um algoritmo que leia o valor de um produto e determine o valor que deve ser pago,
